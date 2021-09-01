@@ -1,0 +1,8 @@
+body{
+	overflow: hidden;
+}
+#window{
+	width: 20%;
+	height: 10%;
+	background-color: red;
+}
